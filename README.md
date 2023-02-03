@@ -1,5 +1,3 @@
-# CRUK Backend Assignment
-
 ## AWS CDK v2 Lambda Function Donation API
 
 Technology Used: Node.js, Typescript, AWS Lambda, DynamoDB
